@@ -1,0 +1,17 @@
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.DAL.deps.json
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.DAL.runtimeconfig.json
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.DAL.dll
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.DAL.pdb
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.Entities.dll
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\bin\Debug\net8.0\PersonalWebSite.Entities.pdb
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.csproj.AssemblyReference.cache
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.AssemblyInfoInputs.cache
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.AssemblyInfo.cs
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\Personal.043A5B1E.Up2Date
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.dll
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\refint\PersonalWebSite.DAL.dll
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.pdb
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\PersonalWebSite.DAL.genruntimeconfig.cache
+C:\Users\akbas\source\repos\PersonelWebSite.DAL\obj\Debug\net8.0\ref\PersonalWebSite.DAL.dll
