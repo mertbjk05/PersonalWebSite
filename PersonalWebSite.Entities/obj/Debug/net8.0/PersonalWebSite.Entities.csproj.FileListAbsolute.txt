@@ -1,0 +1,14 @@
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\bin\Debug\net8.0\PersonalWebSite.Entities.deps.json
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\bin\Debug\net8.0\PersonalWebSite.Entities.runtimeconfig.json
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\bin\Debug\net8.0\PersonalWebSite.Entities.dll
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\bin\Debug\net8.0\PersonalWebSite.Entities.pdb
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.csproj.AssemblyReference.cache
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.AssemblyInfoInputs.cache
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.AssemblyInfo.cs
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.dll
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\refint\PersonalWebSite.Entities.dll
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.pdb
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\PersonalWebSite.Entities.genruntimeconfig.cache
+C:\Users\akbas\source\repos\PersonalWebSite.Entities\obj\Debug\net8.0\ref\PersonalWebSite.Entities.dll
