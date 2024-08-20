@@ -1,0 +1,26 @@
+﻿@model PersonalWebSite.Entities.Models.Post
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h1 class="mb-0">@Model.Title</h1>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">@Model.Content</p>
+                </div>
+                <div class="card-footer d-flex justify-content-between">
+                    <a href="@Url.Action("Index")" class="btn btn-secondary">Geri Dön</a>
+                    <div>
+                        <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-warning me-2">Düzenle</a>
+                        <form asp-action="Delete" method="post" class="d-inline" onsubmit="return confirm('Bu postu silmek istediğinizden emin misiniz?');">
+                            <input type="hidden" name="id" value="@Model.Id" />
+                            <button type="submit" class="btn btn-danger">Sil</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

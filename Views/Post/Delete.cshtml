@@ -1,0 +1,11 @@
+﻿@model PersonalWebSite.Entities.Models.Post
+
+<h2>Postu Sil</h2>
+
+<p>@Model.Title başlıklı postu silmek istediğinizden emin misiniz?</p>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Sil</button>
+    <a asp-action="Index" class="btn btn-secondary">İptal</a>
+</form>

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<PersonalWebSite.Entities.Models.Post>
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">Paylaşılan Gönderiler</h1>
+
+    <div class="row">
+        @foreach (var post in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h4 class="card-title">@post.Title</h4>
+                        <p class="card-text text-truncate">@post.Content</p>
+                    </div>
+                    <div class="card-footer bg-transparent border-top-0">
+                        <a href="@Url.Action("Details", new { id = post.Id })" class="btn btn-primary">Detayları Görüntüle</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,19 @@
+﻿@model PersonalWebSite.Entities.Models.User
+
+<form asp-controller="Account" asp-action="Register" method="post">
+    <div>
+        <label for="UserName">Kullanıcı Adı:</label>
+        <input type="text" id="UserName" name="UserName" class="form-control" />
+    </div>
+    <div>
+        <label for="Email">E-Posta:</label>
+        <input type="email" id="Email" name="Email" class="form-control" />
+    </div>
+    <div>
+        <label for="Password">Şifre:</label>
+        <input type="password" id="Password" name="Password" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+    </div>
+</form>
